@@ -32,12 +32,18 @@ This project uses Microsoft Excel to analyze loan customer data and present insi
 
 ## 📬 Contact
 LinkedIn: https://www.linkedin.com/in/anas-elsaeed-19b429311?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
+
 LinkedIn post: https://www.linkedin.com/posts/anas-elsaeed-19b429311_dataanalysis-dataabranalysis-aesaevaesaeyaesabraeqaeyaepaeuaepaes-activity-7382886974745133057-T185?utm_source=share&utm_medium=member_ios&rcm=ACoAAE9DX8cB6Cddtn2NEpZfxL8OaZnGJvOgSSo
 
 ## 📷 Project Preview
 
 ![Dashboard](Dashboard.jpeg)
+
+
 ![Search](Search1.jpeg)
+
+
 ![Search](Search2.jpeg)
 
 
