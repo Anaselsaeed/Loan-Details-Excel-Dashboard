@@ -36,8 +36,8 @@ LinkedIn post: https://www.linkedin.com/posts/anas-elsaeed-19b429311_dataanalysi
 
 ## 📷 Project Preview
 
-![Dashboard](dashboard.png)
-![Search](search1.png)
-![Search](search2.png)
+![Dashboard](Dashboard.jpeg)
+![Search](Search1.jpeg)
+![Search](Search2.jpeg)
 
 
